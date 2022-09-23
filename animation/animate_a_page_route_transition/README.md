@@ -1,16 +1,4 @@
-# animate_a_page_route_transition
+Animate a page route transition from => https://docs.flutter.dev/cookbook/animation/page-route-animation
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/73424678/192044959-2bf3b49f-5e93-4220-b751-25bc176dc9f1.gif"  height="500">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
