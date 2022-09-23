@@ -1,16 +1,4 @@
-# add_a_drawer_to_a_screen
+Add a Drawer to a screen  from => https://docs.flutter.dev/cookbook/design/drawer
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/73424678/192046923-44123bf7-731b-4bd2-a318-a0db21266c71.gif"  height="500">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
